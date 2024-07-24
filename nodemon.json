@@ -1,0 +1,10 @@
+{
+	"ext": "*.*",
+	"exec": "bun .",
+	"ignore": [
+		"dist",
+		"prisma",
+		".git",
+		"node_modules"
+	]
+}
